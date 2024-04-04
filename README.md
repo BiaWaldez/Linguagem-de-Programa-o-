@@ -1,2 +1,2 @@
-# Linguagem-de-Programa-o-
+# Linguagem-de-Programacao-
 Projeto LotoFácil
